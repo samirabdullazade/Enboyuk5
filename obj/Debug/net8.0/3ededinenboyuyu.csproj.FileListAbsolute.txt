@@ -1,0 +1,14 @@
+C:\Users\Samir\source\repos\3ededinenboyuyu\bin\Debug\net8.0\3ededinenboyuyu.exe
+C:\Users\Samir\source\repos\3ededinenboyuyu\bin\Debug\net8.0\3ededinenboyuyu.deps.json
+C:\Users\Samir\source\repos\3ededinenboyuyu\bin\Debug\net8.0\3ededinenboyuyu.runtimeconfig.json
+C:\Users\Samir\source\repos\3ededinenboyuyu\bin\Debug\net8.0\3ededinenboyuyu.dll
+C:\Users\Samir\source\repos\3ededinenboyuyu\bin\Debug\net8.0\3ededinenboyuyu.pdb
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\3ededinenboyuyu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\3ededinenboyuyu.AssemblyInfoInputs.cache
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\3ededinenboyuyu.AssemblyInfo.cs
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\3ededinenboyuyu.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\3ededinenboyuyu.dll
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\refint\3ededinenboyuyu.dll
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\3ededinenboyuyu.pdb
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\3ededinenboyuyu.genruntimeconfig.cache
+C:\Users\Samir\source\repos\3ededinenboyuyu\obj\Debug\net8.0\ref\3ededinenboyuyu.dll
